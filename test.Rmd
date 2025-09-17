@@ -2,7 +2,7 @@
 title: "Untitled"
 author: "Prof. Gelman"
 date: "2025-09-17"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
